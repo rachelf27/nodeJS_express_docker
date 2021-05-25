@@ -1,0 +1,14 @@
+{
+  "name": "nodejs_express_docker",
+  "version": "1.0.0",
+  "description": "Build a nodeJS app with Docker",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "devDependencies": {
+    "express": "^4.17.1"
+  },
+  "author": "Rachel Murphy",
+  "license": "ISC"
+}
